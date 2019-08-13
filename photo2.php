@@ -6,4 +6,5 @@
   <main>
   <img src="http://studioghiblimovies.com/images/laputaww7.jpg">
 
+    </body>    
 </html>

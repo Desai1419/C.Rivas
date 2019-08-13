@@ -3,7 +3,9 @@
 <head>
 <head>Photo 2</head>
 <body bgcolor="black">
+  <main>
   <img src="http://studioghiblimovies.com/images/laputaww7.jpg">
+  </main>
   
 </body>
 </html>

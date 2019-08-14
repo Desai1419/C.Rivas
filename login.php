@@ -19,7 +19,7 @@
       </div>
       
       <div>
-      <button type="button" class="cancelbtn">Cancel</button>
+   
       <span class="psw"><a href="forgotpassword.php">Forgot Password?</a></span>
       </div>
       </form>

@@ -6,16 +6,17 @@
   <body>
     <h1 align="Center">Rivas Images</h1>
     <main>
-      <h2>Log in</h2>
+      <h2 align="center">Log in</h2>
       <form action="index.php>
       <div>
-        <label for="uname"><b>Username</b></label>
-        <input type="text" placeholder="Enter Username" name="uname" required>
-                                                                    
-        <label for="psw"><b>Password</b></label>
-        <input type="text" placeholder="Enter Password" name="psw" required>
+        <label for="uname"><b align="center">Username</b></label>
+        <input type="text" align="center" placeholder="Enter Username" name="uname" required>
+                                                                    </div>
+      <div>                                                               
+        <label for="psw" align="center"><b>Password</b></label>
+        <input type="text" align="center" placeholder="Enter Password" name="psw" required>
         
-        <button type="submit">Log in</button>
+        <button type="submit" align="align">Log in</button>
       </div>
       
       <div>

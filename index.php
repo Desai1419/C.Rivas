@@ -7,10 +7,10 @@
     <h1 align="Center">Rivas Images</h1>
     <main>
       <h2 align="center">Log in</h2>
-      <form action="index.php>
+      <form action="gallery.php>
       <div>
-        <label for="uname"><b align="center">Username</b></label>
-        <input type="text" align="center" placeholder="Enter Username" name="uname" required>
+        <label for="uname" align="center"><b>Username</b></label>
+        <input type="text" placeholder="Enter Username" name="uname" required>
                                                                     </div>
       <div>                                                               
         <label for="psw" align="center"><b>Password</b></label>
